@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Themes</string>
+    <string name="set_wallpaper">set_wallpaper</string>
+    <string name="apply">Apply</string>
+</resources>
